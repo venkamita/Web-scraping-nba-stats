@@ -29,9 +29,9 @@ This repository contains a Jupyter notebook that scrapes 2023–24 NBA totals fr
 
 `python -m venv .venv
 source .venv/bin/activate # Windows: .venv\Scripts\activate
-pip install -r requirements.txt`
+pip install -r requirements`
 
-## If using requirements.txt:
+## Inplace of using requirements:
 
 `
 pandas
@@ -42,9 +42,9 @@ seaborn`
 
 ## Project Structure
 
-├── nba_scraped_stats.ipynb # 
-├── README.md # This file
-└── ss
+``├── nba_scraped_stats.ipynb\n 
+  ├── README.md\n 
+  └── ss``
 
 ## How It Works
 
