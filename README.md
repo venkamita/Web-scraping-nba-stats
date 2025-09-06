@@ -1,6 +1,4 @@
-[README.md](https://github.com/user-attachments/files/22184750/README.md)
-NBA 2023--24 Season Totals: Scrape, Clean:
-This repository
+NBA 2023--24 Season Totals: Scrape, Clean, Explore This repository
 contains a Jupyter notebook that scrapes 2023--24 NBA totals from
 Basketball-Reference, performs data cleaning, computes basic statistics,
 and generates exploratory visualizations (distributions, correlations,
