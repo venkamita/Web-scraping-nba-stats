@@ -39,13 +39,6 @@ numpy
 matplotlib
 seaborn`
 
-
-## Project Structure
-
-``├── nba_scraped_stats.ipynb\n 
-  ├── README.md\n 
-  └── ss``
-
 ## How It Works
 
 ### Scrape
