@@ -41,10 +41,10 @@ seaborn`
 
 
 ## Project Structure
-`
-├── nba_scraped_stats.ipynb # Main notebook (scrape, clean, analyze, visualize)
+
+├── nba_scraped_stats.ipynb # 
 ├── README.md # This file
-└── (optional artifacts) # Exports, plots, or cleaned CSV you may add`
+└── ss
 
 ## How It Works
 
